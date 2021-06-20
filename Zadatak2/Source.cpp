@@ -1,5 +1,3 @@
-// C++ program to find path
-// between two cell in matrix
 #include <iostream>
 #include <queue>
 #include <thread>
